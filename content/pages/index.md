@@ -106,7 +106,7 @@ sections:
   - type: features_section
     features:
       - title: Venez comme vous êtes
-        subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
+        subtitle: By Tolkien
         image: images/brandon-guidelines.png
         image_alt: Brandon Guidelines
         media_position: right
