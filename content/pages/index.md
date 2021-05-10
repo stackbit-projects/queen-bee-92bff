@@ -3,9 +3,8 @@ sections:
   - type: hero_section
     title: Sarah Croche
     subtitle: et ça rappelle
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: |
+      ###### Produit catégories lait bio de normandie neubourg
     actions:
       - label: Try Free
         url: /pricing
