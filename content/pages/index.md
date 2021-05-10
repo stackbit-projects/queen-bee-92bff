@@ -2,7 +2,7 @@
 sections:
   - type: hero_section
     title: Sarah Croche
-    subtitle: Optional hero section subtitle
+    subtitle: et ça rappelle
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
