@@ -57,7 +57,7 @@ sections:
     subtitle: DIY Youtube
     features:
       - title: Nouveau style
-        subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
+        subtitle: Super Sonic
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
