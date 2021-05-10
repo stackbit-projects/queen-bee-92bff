@@ -351,5 +351,5 @@ seo:
       value: images/diy-preview.png
       relativeUrl: true
 layout: advanced
-title: 'bizz bizz '
+title: bizz bizz bizz
 ---
