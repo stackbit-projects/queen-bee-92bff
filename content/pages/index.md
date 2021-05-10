@@ -105,7 +105,7 @@ sections:
     background_color: secondary
   - type: features_section
     features:
-      - title: Venez comme vous êtes
+      - title: Tous ce qui est or ne brille pas.
         subtitle: By Tolkien
         image: images/brandon-guidelines.png
         image_alt: Brandon Guidelines
