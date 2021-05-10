@@ -86,7 +86,7 @@ sections:
         media_position: left
         media_width: fifty
       - title: Pour vivre l'action
-        subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
+        subtitle: Ton thé t'as t-il ôté ta
         content: |
           Il faut être à la mode.
         actions:
